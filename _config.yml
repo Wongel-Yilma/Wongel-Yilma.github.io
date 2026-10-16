@@ -1,11 +1,11 @@
 title: Wongel Nadew # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  PhD Candidate at Utah State University
   <br><br>
-  Second description 
+  Research interests: Computational mechanics and scientific machine learning
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nadew/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
