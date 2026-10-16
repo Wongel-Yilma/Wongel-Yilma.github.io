@@ -1,11 +1,11 @@
 title: Wongel Nadew # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/profile_image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD Candidate at Utah State University
   <br><br>
   Research interests: Computational mechanics and scientific machine learning
   <br><br>
-  <a href="https://www.linkedin.com/in/nadew/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nadew/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
